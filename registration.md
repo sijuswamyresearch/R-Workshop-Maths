@@ -20,7 +20,7 @@
 | 16 | Aadisreshta | Other | Saintgits College Of Engineering |
 | 17 | Diya B | Other | Saintgits College Of Engineering |
 | 18 | Devananda S | Other | Saintgits College Of Engineering |
-| 19 | Aiswariya Lekshmi P Binu | Cse | Saintgits College Of Engineering |
+| 19 | Aiswariya Lekshmi P Binu | CSE | Saintgits College Of Engineering |
 | 20 | Chandana C S | Other | Saintgits College Of Engineering |
 | 21 | Gowrinanda Reghunath | Mathematics | Alphonsa College, Pala |
 | 22 | Akshaya Krishna | Mathematics | Alphonsa College, Pala |
