@@ -45,7 +45,7 @@
 | 41 | Mr. Sandeep P.S. | Saintgits College of Engineering | [View Certificate](./PDF/41_Mr._Sandeep_P.S..pdf) |
 | 42 | Ms. Sneha Sara Sajeev | Saintgits College of Engineering | [View Certificate](./PDF/42_Ms._Sneha_Sara_Sajeev.pdf) |
 | 43 | Ms. Ambilimol V. P. | Mahaguru institute of technology | [View Certificate](./PDF/43_Ms._Ambilimol_V._P..pdf) |
-| 44 | Ms. Georgeena Mary George | St Joseph'S College of Engineering and Technology | [View Certificate](./PDF/44_Ms._Georgeena_Mary_George_.pdf) |
+| 44 | Ms. Georgeena Mary George | St Joseph'S College of Engineering and Technology | [View Certificate](./PDF/44_Ms._Georgeena_Mary_George.pdf) |
 | 45 | Mr. Joe G Philip | Saintgits College of Engineering | [View Certificate](./PDF/45_Mr._Joe_G_Philip.pdf) |
 | 46 | Mr. Binumon P | St Joseph'S College of Engineering and Technology | [View Certificate](./PDF/46_Mr._Binumon_P.pdf) |
 | 47 | Mr. Nirmal John Joy | Saintgits College of Engineering | [View Certificate](./PDF/47_Mr._Nirmal_John_Joy.pdf) |
