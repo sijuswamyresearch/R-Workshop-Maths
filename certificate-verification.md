@@ -11,7 +11,7 @@
 | 7 | Dr. Priyanka N.C. | Sastra University | [View Certificate](./PDF/7_Dr._Priyanka_N.C..pdf) |
 | 8 | Mrs. Sheeba Babu | Saintgits College of Engineering | [View Certificate](./PDF/8_Mrs._Sheeba_Babu.pdf) |
 | 9 | Dr. Ann Mary Philip | Assumption College Autonomous | [View Certificate](./PDF/9_Dr._Ann_Mary_Philip.pdf) |
-| 10 | Ms. Aswathy M Nair | Alphonsa College | [View Certificate](./PDF/10_Ms._Aswathy_M_Nair_.pdf) |
+| 10 | Ms. Aswathy M Nair | Alphonsa College | [View Certificate](./PDF/10_Ms._Aswathy_M_Nair.pdf) |
 | 11 | Ms. Aileen Maria Shibu | Alphonsa College | [View Certificate](./PDF/11_Ms._Aileen_Maria_Shibu.pdf) |
 | 12 | Ms. Thanooja Krishna | Alphonsa College | [View Certificate](./PDF/12_Ms._Thanooja_Krishna.pdf) |
 | 13 | Ms. Ensa Haris | Alphonsa College | [View Certificate](./PDF/13_Ms._Ensa_Haris.pdf) |
