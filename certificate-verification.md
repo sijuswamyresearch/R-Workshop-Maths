@@ -3,8 +3,8 @@
 | Sl.No. | Name | Institution | Certificate Link |
 |--------|------|-------------|------------------|
 | 1 | Mr. Siju K S | Saintgits College of Engineering | [View Certificate](./PDF/1_Mr._Siju_K_S.pdf) |
-| 2 | Ms. Jisha Ann Abraham | Saintgits College of Engineering | [View Certificate](./PDF/2_Ms._Jisha_Ann_Abraham_.pdf) |
-| 3 | Ms. Caroline Ann Rajesh | Saintgits College of Engineering | [View Certificate](./PDF/3_Ms._Caroline_Ann_Rajesh_.pdf) |
+| 2 | Ms. Jisha Ann Abraham | Saintgits College of Engineering | [View Certificate](./PDF/2_Ms._Jisha_Ann_Abraham.pdf) |
+| 3 | Ms. Caroline Ann Rajesh | Saintgits College of Engineering | [View Certificate](./PDF/3_Ms._Caroline_Ann_Rajesh.pdf) |
 | 4 | Mr. Amal Reghunath | Saintgits College of Engineering | [View Certificate](./PDF/4_Mr._Amal_Reghunath.pdf) |
 | 5 | Ms. Lekshmi . S | Saintgits College of Engineering | [View Certificate](./PDF/5_Ms._Lekshmi_._S.pdf) |
 | 6 | Ms. Aparna A Prasad | Saintgits College of Engineering | [View Certificate](./PDF/6_Ms._Aparna_A_Prasad.pdf) |
